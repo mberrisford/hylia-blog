@@ -1,13 +1,13 @@
 {
   "showThemeCredit": false,
   "name": "Martin Berrisford",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "shortDesc": "A seasoned accessibility and assistive technology professional living in Canada.",
   "url": "https://hylia.website",
-  "authorEmail": "hi@piccalil.li",
-  "authorHandle": "@piccalilli_",
-  "authorName": "Andy Bell",
+  "authorEmail": "berrisfordm@outlook.com",
+  "authorHandle": "",
+  "authorName": "Martin Berrisford",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 3,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "paymentPointer": "xxx",
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 3
 }
