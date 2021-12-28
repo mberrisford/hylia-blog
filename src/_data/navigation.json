@@ -7,11 +7,11 @@
     },
     {
       "text": "Archive",
-      "url": "/archive"
+      "url": "/archive/"
     },
     {
       "text": "Contact Me",
-      "url": "/contact",
+      "url": "/contact/",
       "external": false
     }
   ]
