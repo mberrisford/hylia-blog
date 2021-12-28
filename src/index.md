@@ -1,6 +1,6 @@
 ---
 layout: home
-title: An Accessibility Blog by Martin Berrisford
+title: A Blog by Martin Berrisford
 metaDesc: An accessibility blog by Martin Berrisford
 postsHeading: Latest posts
 archiveButtonText: See all posts
