@@ -13,16 +13,6 @@
       "text": "Contact Me",
       "url": "/contact",
       "external": false
-    },
-    {
-      "text": "LinkedIn",
-      "url": "https://www.linkedin.com/in/martin-berrisford-was-5a77aa8/",
-      "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/martyberr",
-      "external": true
     }
   ]
 }
