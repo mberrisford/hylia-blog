@@ -6,7 +6,7 @@
   "authorEmail": "berrisfordm@outlook.com",
   "authorHandle": "",
   "authorName": "Martin Berrisford",
-  "enableThirdPartyComments": false,
+  "enableThirdPartyComments": true,
   "paymentPointer": "xxx",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 3
