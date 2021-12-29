@@ -8,6 +8,6 @@
   "authorName": "Martin Berrisford",
   "enableThirdPartyComments": false,
   "paymentPointer": "xxx",
-  "faviconPath": "/images/favicon.png",
+  "faviconPath": "/images/favicon.ico",
   "maxPostsPerPage": 3
 }
