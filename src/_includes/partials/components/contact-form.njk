@@ -7,27 +7,27 @@
   action="/thank-you"
   netlify-honeypot="bot-field"
 >
-  <ol class="[ field-list ]">
-    <li class="[ field-list__field-group ]">
-      {{ label('What’s your name?', 'name') }}
+  <div class="[ field-list ]" role="group" aria-label="{{ introHeading }}">
+    <div class="[ field-list__field-group ]">
+      {{ label('Full Name', 'name') }}
       {{
         field('text', 'name', {
           required: true,
           autocomplete: 'name'
         })
       }}
-    </li>
-    <li class="[ field-list__field-group ]">
-      {{ label('What’s your email address?', 'email') }}
+    </div>
+    <div class="[ field-list__field-group ]">
+      {{ label('Email address', 'email') }}
       {{ field('email', 'email', {required: true, autocomplete: 'email'}) }}
-    </li>
-    <li class="[ field-list__field-group ]">
-      {{ label('What’s on your mind?', 'message') }}
+    </div>
+    <div class="[ field-list__field-group ]">
+      {{ label('Message', 'message') }}
       {{ textarea('message', {required: true, spellcheck: 'true'}) }}
-    </li>
-    <li hidden>
+    </div>
+    <div hidden>
       <label>Don’t fill this out if you're human: <input name="bot-field"/></label>
-    </li>
-  </ol>
-  {{ button('Send message') }}
+    </div>
+    {{ button('Send') }}
+  </div>
 </form>
