@@ -7,11 +7,12 @@
     &,
     &:visited {
       color: var(--color-theme-primary);
-      text-decoration: none;
+      text-decoration: underline;
     }
 
     &:hover {
       text-decoration: underline;
+      text-decoration-thickness: 3px;
     }
   }
 }
